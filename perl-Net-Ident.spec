@@ -4,7 +4,7 @@
 #
 Name     : perl-Net-Ident
 Version  : 1.25
-Release  : 14
+Release  : 15
 URL      : https://cpan.metacpan.org/authors/id/T/TO/TODDR/Net-Ident-1.25.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/T/TO/TODDR/Net-Ident-1.25.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libn/libnet-ident-perl/libnet-ident-perl_1.24-1.debian.tar.xz
@@ -100,4 +100,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Net/Ident.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Net/Ident.pm
