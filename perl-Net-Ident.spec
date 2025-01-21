@@ -5,7 +5,7 @@
 #
 Name     : perl-Net-Ident
 Version  : 1.25
-Release  : 24
+Release  : 25
 URL      : https://cpan.metacpan.org/authors/id/T/TO/TODDR/Net-Ident-1.25.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/T/TO/TODDR/Net-Ident-1.25.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libn/libnet-ident-perl/libnet-ident-perl_1.24-1.debian.tar.xz
